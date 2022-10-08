@@ -2,7 +2,6 @@
 
 ## I'm a Computer Science Enthusiast, Front-End Web Developer and a Student 
 - 🌱 I’m currently learning Front-End with React
-- 👯 
 - 🥅 2022 Goals: To become certified Front-End Developer
 - ⚡ Fun fact: I love to draw and play tennis.
 
