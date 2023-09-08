@@ -83,11 +83,16 @@
  
 </div>
 <br>
-
-
 ---
 
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohil&show_icons=true&theme=radical)
+### 📊 Profile stats
+
+<p align="left">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Halim-Shams&theme=radical">
+    
+---
+
+![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohil&show_icons=true&theme=radical)
   
 ---
 
