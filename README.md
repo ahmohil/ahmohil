@@ -87,9 +87,8 @@
 
 ### 📊 Profile stats
 
-<p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmohil&theme=radical">
-    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmohil&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmohil&show_icons=true&theme=radical)
