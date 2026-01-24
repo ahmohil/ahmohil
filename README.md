@@ -1,4 +1,4 @@
-## 👨‍💻 Software Engineer | Frontend & AI Enthusiast 🚀
+## 👨‍💻 Software Engineer | Full Stack AI Enthusiast 🚀
 
 Greetings! I'm a passionate Software Engineer with a focus on building scalable web platforms and AI-driven applications. My experience includes developing and maintaining reusable UI components, optimizing user workflows, and documenting system architecture.
 
