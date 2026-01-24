@@ -6,7 +6,6 @@ I am proficient in both frontend and backend technologies, and my work is driven
 
 - 🔭 I’m currently a Software Engineer at Motive.
 - 💬 Ask me about **Angular, React, Node.js, and AI-driven applications**.
-- 📫 How to reach me **ahmohil78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
