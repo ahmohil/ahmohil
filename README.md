@@ -1,4 +1,4 @@
-# 👨‍💻 Abdul Hanan | Founding Engineer & AI Specialist
+# 👨‍💻 Abdul Hanan | Software Engineer & Gen AI Specialist
 
 I am a Full-Stack Software Engineer with a focus on **Software Architecture** and **Generative AI**. Currently, I’m building scalable systems at **Motive**.
 
