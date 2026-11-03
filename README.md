@@ -1,26 +1,31 @@
-# 👨‍💻 Abdul Hanan | Software Engineer & Gen AI Specialist
 
-I am a Full-Stack Software Engineer with a focus on **Software Architecture** and **Generative AI**. Currently, I’m building scalable systems at **Motive**.
+<div align="center">
+<h1 align="center">Hi there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h4 align="center">A computer science enthusiasts interested in product development and artificial intelligence</h4>
+</div>
 
-Graduated with a **BS in Computer Science** from the **University of the Punjab**, I combine a strong theoretical foundation with hands-on experience in building RAG pipelines and scalable web platforms.
+<br>
+Building products from the ground up (spanning FinTech, EdTech, and social apps infused with Generative AI) - that’s where I start. Currently learning the art of scaling these innovations to enterprise-level moving our large angular monolith at Motive into micro frontends.
 
----
+<br/>
+<br/>
 
-### 🛠 Tech Stack & Expertise
 
-* **Core:** Node.js, Express, PostgreSQL, TypeScript, Angular, React.
-* **AI/LLM:** Agentic Pipelines, RAG, Vector Databases, OpenAI, Gemini, Claude.
-* **System Design:** Microservices, API Design Patterns, Scalable Architectures.
+<br/>
 
----
+<h2> Contact Me 💬 </h2>
 
-### 🚀 Current Focus
-* **Scalable AI Systems:** Architecting complex LLM-driven workflows that go beyond simple chat interfaces.
-* **Backend Mastery:** Transitioning towards backend-heavy roles with a focus on database optimization and system reliability.
-* **Founding Mindset:** Building products from 0 to 1 with an emphasis on clean code and rapid iteration.
+Feel free to reach out to me if you have any questions or just want to chat. I'm always happy to connect with like-minded people.
 
----
-
-### 📈 Stats & Socials
-- 💬 **Let's Talk:** System Design, AI Agents, or the future of Full-Stack development.
-- 🔭 **Current Role:** Software Engineer at Motive.
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/ahmohil/" target="blank"><img align="center"
+     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="azzar" height="30"/></a>
+  <a href="mailto:ahmohil78@gmail.com" target="blank"><img align="center"
+     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="azzar" height="30"/></a>
+    <a href="https://twitter.com/ahmohil" target="blank"><img align="center"
+     src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+     alt="azzar" height="30"/></a>
+</p>
